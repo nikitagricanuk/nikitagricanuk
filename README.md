@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Nikita, and I'm 18 years old. I'm pursuing a Computer Science degree at [INRTU](https://istu.edu). I love programming and have been doing it since 5th grade. 
+My name is Nikita, and I'm 18 years old. I'm pursuing a Computer Science degree at [INRTU](https://eng.istu.edu). I love programming and have been doing it since 5th grade. 
 
 Here are some fun facts about me:
  - 🔭 I love studying — it's so cool! I can't imagine doing anything other than continuously learning and applying that knowledge to real-world problems.
